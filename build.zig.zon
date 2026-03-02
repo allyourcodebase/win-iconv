@@ -4,7 +4,7 @@
     .minimum_zig_version = "0.14.0",
     .dependencies = .{
         .win_iconv = .{
-            .url = "git+https://github.com/techatrix/win-iconv#da96b11521e0bb251a9c9d2d9e83128d0373c555",
+            .url = "git+https://github.com/win-iconv/win-iconv#82f00fbc1b1156530a0bbd003b93b3942743ed27",
             .hash = "N-V-__8AAANWAQBoiCxdwbAmaA0PDpYKI0zfFJ1Woy67Tjh2",
         },
     },
