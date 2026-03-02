@@ -1,7 +1,7 @@
 .{
     .name = .win_iconv,
     .version = "0.0.10",
-    .minimum_zig_version = "0.14.0",
+    .minimum_zig_version = "0.15.2",
     .dependencies = .{
         .win_iconv = .{
             .url = "git+https://github.com/win-iconv/win-iconv#82f00fbc1b1156530a0bbd003b93b3942743ed27",
